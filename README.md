@@ -28,12 +28,12 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide_title=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sacrednightmare99&show_icons=true&theme=tokyonight&hide_title=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sacrednightmare99&layout=compact&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=yourusername&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=sacrednightmare99&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
