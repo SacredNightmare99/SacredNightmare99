@@ -35,13 +35,13 @@ I'm currently developing an **Attendance Management System** using Flutter and S
 ### 📊 My GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sacrednightmare99&show_icons=true&theme=tokyonight&hide_title=false&count_private=true" alt="Ishaan's GitHub Stats" />
+  <img src="https://github-readme-stats-self-one-46.vercel.app/api?username=sacrednightmare99&show_icons=true&theme=tokyonight&hide_title=false&count_private=true" alt="My GitHub Stats" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sacrednightmare99&layout=compact&theme=tokyonight" alt="Ishaan's Top Languages" />
+  <img src="https://github-readme-stats-self-one-46.vercel.app/api/top-langs/?username=sacrednightmare99&layout=compact&theme=tokyonight" alt="My Top Languages" />
 </p>
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sacrednightmare99&theme=tokyonight&column=7&margin-w=15&margin-h=15" alt="Ishaan's Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=sacrednightmare99&theme=tokyonight&column=7&margin-w=15&margin-h=15" alt="My Trophies" />
 </p>
 
 ---
