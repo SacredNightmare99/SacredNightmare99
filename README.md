@@ -1,58 +1,56 @@
 <h1 align="center">Hi 👋, I'm Ishaan</h1>
-<h3 align="center">Flutter Developer | Tech Enthusiast | B.Tech Student</h3>
+<h3 align="center">A Passionate Flutter Developer & Tech Enthusiast</h3>
 
 ---
 
 ### 👨‍💻 About Me
 
-- 🎓 I'm currently pursuing B.Tech and learning mobile app development.
-- 🛠️ Exploring **Flutter**, **Firebase**, **Supabase**, and **GetX**.
-- 📱 Working on an **Attendance System** for teachers to help track student participation more easily.
-- 🌱 Learning how to build structured UIs and manage data efficiently.
-- 💬 Always open to collaboration or learning from others.
+I'm a developer focused on building beautiful and functional mobile applications with Flutter. I enjoy turning complex problems into simple, elegant solutions. Currently, I'm diving deep into the mobile development ecosystem, constantly learning and applying new skills in real-world projects.
+
+- 🌱 I’m currently mastering **Flutter** for cross-platform development.
+- 🛠️ My toolkit includes **Firebase**, **Supabase**, and state management with **GetX**.
+- 🚀 I'm focused on building scalable apps and writing clean, maintainable code.
+- 🤝 Open to collaborating on innovative Flutter projects and learning from the community.
 
 ---
 
-### 🧰 Tech Stack
+### 🚀 What I'm Building
 
-<p align="left" style="margin-bottom: 20px;">
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=black"/>
-  <img src="https://img.shields.io/badge/GetX-purple?style=for-the-badge"/>
+I'm currently developing an **Attendance Management System** using Flutter and Supabase. The goal is to create an intuitive app for educators to effortlessly track student attendance and manage classes.
+
+---
+
+### 🛠️ My Tech Stack
+
+<p align="left">
+  <a href="https://flutter.dev" target="_blank"><img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/></a>
+  <a href="https://dart.dev" target="_blank"><img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/></a>
+  <a href="https://firebase.google.com/" target="_blank"><img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/></a>
+  <a href="https://supabase.io/" target="_blank"><img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=black"/></a>
+  <a href="https://pub.dev/packages/get" target="_blank"><img src="https://img.shields.io/badge/GetX-purple?style=for-the-badge"/></a>
 </p>
 
 ---
 
-### 📈 GitHub Stats
-
-<br/>
+### 📊 My GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sacrednightmare99&show_icons=true&theme=tokyonight&hide_title=false&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sacrednightmare99&show_icons=true&theme=tokyonight&hide_title=false&count_private=true" alt="Ishaan's GitHub Stats" />
 </p>
-
-<br/>
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sacrednightmare99&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sacrednightmare99&layout=compact&theme=tokyonight" alt="Ishaan's Top Languages" />
 </p>
-
-<br/>
-
 <p align="center">
-  <img src="https://ghchart.rshah.org/FF4D4D/sacrednightmare99" alt="GitHub chart" />
+  <img src="https://github-profile-trophy.vercel.app/?username=sacrednightmare99&theme=tokyonight&column=7&margin-w=15&margin-h=15" alt="Ishaan's Trophies" />
 </p>
-
 
 ---
 
-### 📫 Connect with Me
+### 📫 Let's Connect!
 
-<br/>
+I'm always open to new opportunities and collaborations. Feel free to reach out!
 
-<p>
+<p align="left">
   <a href="https://www.linkedin.com/in/ishaan-jindal-6b7083320/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
@@ -64,11 +62,11 @@
 ---
 
 <details>
-  <summary>🧩 A Little More</summary>
+  <summary><strong>🧩 A Little More About Me</strong></summary>
   <br/>
-  - I'm focused on building practical projects that solve real problems  
-  - Currently working on making my Flutter apps more responsive and structured  
-  - I enjoy trying out new tools and backend services like Supabase and Firebase  
+  - I'm focused on building practical projects that solve real-world problems.
+  - Currently working on making my Flutter apps responsive and well-structured using best practices.
+  - I enjoy exploring new tools and backend services like Supabase and Firebase to find the best fit for a project.
 </details>
 
 ---
@@ -76,4 +74,3 @@
 <p align="center">
   <img src="https://readme-typing-svg.vercel.app?lines=Thanks+for+visiting!+🚀;Happy+Coding+❤️&font=Fira+Code&center=true&color=58A6FF&vCenter=true&pause=1500&size=24" />
 </p>
-
