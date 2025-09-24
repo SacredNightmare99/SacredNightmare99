@@ -1,76 +1,49 @@
-<h1 align="center">Hi 👋, I'm Ishaan</h1>
-<h3 align="center">A Passionate Flutter Developer & Tech Enthusiast</h3>
+<div align="center">
 
----
+  <h1>Hi 👋, I'm Ishaan</h1>
+  <h3>A Passionate Flutter Developer & Tech Enthusiast</h3>
 
-### 👨‍💻 About Me
-
-I'm a developer focused on building beautiful and functional mobile applications with Flutter. I enjoy turning complex problems into simple, elegant solutions. Currently, I'm diving deep into the mobile development ecosystem, constantly learning and applying new skills in real-world projects.
-
-- 🌱 I’m currently mastering **Flutter** for cross-platform development.
-- 🛠️ My toolkit includes **Firebase**, **Supabase**, and state management with **GetX**.
-- 🚀 I'm focused on building scalable apps and writing clean, maintainable code.
-- 🤝 Open to collaborating on innovative Flutter projects and learning from the community.
-
----
-
-### 🚀 What I'm Building
-
-I'm currently developing an **Attendance Management System** using Flutter and Supabase. The goal is to create an intuitive app for educators to effortlessly track student attendance and manage classes.
-
----
-
-### 🛠️ My Tech Stack
-
-<p align="left">
-  <a href="https://flutter.dev" target="_blank"><img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/></a>
-  <a href="https://dart.dev" target="_blank"><img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/></a>
-  <a href="https://firebase.google.com/" target="_blank"><img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/></a>
-  <a href="https://supabase.io/" target="_blank"><img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=black"/></a>
-  <a href="https://pub.dev/packages/get" target="_blank"><img src="https://img.shields.io/badge/GetX-purple?style=for-the-badge"/></a>
-</p>
-
----
-
-### 📊 My GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats-self-one-46.vercel.app/api?username=sacrednightmare99&show_icons=true&theme=tokyonight&hide_title=false&count_private=true&include_all_commits=true" alt="My GitHub Stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats-self-one-46.vercel.app/api/top-langs/?username=sacrednightmare99&layout=compact&theme=tokyonight&include_all_commits=true" alt="My Top Languages" />
-</p>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sacrednightmare99&theme=tokyonight&column=7&margin-w=15&margin-h=15" alt="My Trophies" />
-</p>
-
----
-
-### 📫 Let's Connect!
-
-I'm always open to new opportunities and collaborations. Feel free to reach out!
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/ishaan-jindal-6b7083320/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:ishaanjindal2006@email.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
-
----
-
-<details>
-  <summary><strong>🧩 A Little More About Me</strong></summary>
   <br/>
-  - I'm focused on building practical projects that solve real-world problems.
-  - Currently working on making my Flutter apps responsive and well-structured using best practices.
-  - I enjoy exploring new tools and backend services like Supabase and Firebase to find the best fit for a project.
-</details>
 
----
+  <h3 align="center">🛠️ Tech Stack 🛠️</h3>
+  <p align="center">
+    <a href="https://flutter.dev" target="_blank"><img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/></a>
+    <a href="https://dart.dev" target="_blank"><img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/></a>
+    <a href="https://reactjs.org/" target="_blank"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/></a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/></a>
+    <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/></a>
+    <a href="https://www.python.org" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/></a>
+    <br/>
+    <a href="https://www.java.com" target="_blank"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/></a>
+    <a href="https://isocpp.org/" target="_blank"><img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/></a>
+    <a href="https://www.cprogramming.com/" target="_blank"><img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/></a>
+    <a href="https://firebase.google.com/" target="_blank"><img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/></a>
+    <a href="https://supabase.io/" target="_blank"><img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=black"/></a>
+    <a href="https://pub.dev/packages/get" target="_blank"><img src="https://img.shields.io/badge/GetX-purple?style=for-the-badge"/></a>
+  </p>
+  
+  <br/>
 
-<p align="center">
-  <img src="https://readme-typing-svg.vercel.app?lines=Thanks+for+visiting!+🚀;Happy+Coding+❤️&font=Fira+Code&center=true&color=58A6FF&vCenter=true&pause=1500&size=24" />
-</p>
+  <h3 align="center">📊 GitHub Stats 📊</h3>
+  <p align="center">
+    <img src="https://github-readme-stats-self-one-46.vercel.app/api?username=sacrednightmare99&show_icons=true&theme=tokyonight&hide_title=false&count_private=true&include_all_commits=true" alt="Ishaan's GitHub Stats" />
+    <br/>
+    <img src="https://github-readme-stats-self-one-46.vercel.app/api/top-langs/?username=sacrednightmare99&layout=compact&theme=tokyonight&include_all_commits=true" alt="Ishaan's Top Languages" />
+  </p>
+  <p align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=sacrednightmare99&theme=tokyonight&column=7&margin-w=15&margin-h=15" alt="Ishaan's Trophies" />
+  </p>
+  
+  <br/>
+
+  <h3 align="center">📫 Connect with Me 📫</h3>
+  <p align="center">
+    <a href="https://www.linkedin.com/in/ishaan-jindal-6b7083320/" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    </a>
+    <a href="mailto:ishaanjindal2006@email.com">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    </a>
+  </p>
+
+</div>
