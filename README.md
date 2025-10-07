@@ -33,6 +33,11 @@
   <p align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=sacrednightmare99&theme=tokyonight&column=7&margin-w=15&margin-h=15" alt="Ishaan's Trophies" />
   </p>
+  <p align="center">
+    <a href="https://holopin.io/@sacrednightmare99" target="_blank">
+      <img src="https://holopin.me/sacrednightmare99" alt="@sacrednightmare99's Holopin badges" />
+    </a>
+  </p>
   
   <br/>
 
