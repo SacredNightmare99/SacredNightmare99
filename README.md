@@ -20,6 +20,7 @@
     <a href="https://firebase.google.com/" target="_blank"><img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/></a>
     <a href="https://supabase.io/" target="_blank"><img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=black"/></a>
     <a href="https://pub.dev/packages/get" target="_blank"><img src="https://img.shields.io/badge/GetX-purple?style=for-the-badge"/></a>
+    <a href="https://go.dev/" target="_blank"><img src="https://img.shields.io/badge/Go-00ADD8?logo=Go&logoColor=white&style=for-the-badge"/></a>
   </p>
   
   <br/>
