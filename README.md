@@ -25,6 +25,7 @@
   <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/Neovim-57A143?logo=neovim&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Go-00A7D0?logo=go&logoColor=white"/>
 </p>
 
 ### Stats
