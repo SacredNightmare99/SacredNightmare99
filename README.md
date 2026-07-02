@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1200&color=FF2E2E&center=true&vCenter=true&width=700&lines=Ishaan+Jindal;Flutter-first+developer.;Architecture-obsessed.;Occasionally+builds+weird+things.)](https://ishaanjindal.tech)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1200&color=FF2E2E&center=true&vCenter=true&width=700&lines=Ishaan+Jindal;Builds+stuff.;Breaks+stuff.;Fixes+stuff.)](https://ishaanjindal.tech)
 
 <br/>
 
@@ -42,4 +42,14 @@
   <a href="https://holopin.io/@sacrednightmare99" target="_blank">
     <img src="https://holopin.me/sacrednightmare99" alt="Holopin badges"/>
   </a>
+</p>
+
+<br/>
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ishaan-jindal&style=flat-square&color=FF2E2E" alt="Profile views" />
 </p>
